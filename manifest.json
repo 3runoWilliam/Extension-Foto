@@ -1,0 +1,11 @@
+{
+    "name": "Trava-Pc-BW",
+    "description": "Feito por Bruno Willliam com o intuito de travar todos os pc da EAJ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action" : {
+        "default_popup": "index.html"
+    }
+
+  }

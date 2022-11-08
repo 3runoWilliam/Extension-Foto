@@ -3,7 +3,6 @@ const input = document.querySelector('.input');
 
 const replaceImagem = (url) => {
     const images = document.querySelectorAll(img);
-
     img.forEach((image) => image.scr = url);
 }
 
